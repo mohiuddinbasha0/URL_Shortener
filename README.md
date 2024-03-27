@@ -5,9 +5,8 @@ URL Shortener project aimed at providing users with a convenient way to shorten 
 ### API Endpoints
 
 #### GET /{short_uri}
-Redirects to long url
-
+Redirects to long url  
 
 #### POST /shortURL
-Accepts JSON : { "url" : "long url" }
+Accepts JSON : { "url" : "long url" }  
 Returns short url
